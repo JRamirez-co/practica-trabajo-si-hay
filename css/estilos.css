@@ -63,3 +63,17 @@ footer{
     border-top: 6px solid var(--amarillo);
 }
 
+.hero{
+    padding: 40px 20px;
+    text-align: center;
+    background-color: var(--fondo);
+}
+
+.btn{
+    display: inline-block;
+    background-color: var(--rojo);
+    color: var(--blanco);
+    padding: 12px 24px;
+    text-decoration: none;
+    margin-top: 15px;
+}
